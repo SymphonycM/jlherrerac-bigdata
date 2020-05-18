@@ -1,4 +1,4 @@
-ID de caso,Fecha de notificación,Codigo DIVIPOLA,Ciudad de ubicación,Departamento o Distrito ,atención,Edad,Sexo,Tipo,Estado,País de procedencia,FIS,Fecha de muerte,Fecha diagnostico,Fecha recuperado,fecha reporte web
+ID de caso,Fecha de notificacion,Codigo DIVIPOLA,Ciudad de ubicacion,Departamento o Distrito ,atencion,Edad,Sexo,Tipo,Estado,Pais de procedencia,FIS,Fecha de muerte,Fecha diagnostico,Fecha recuperado,fecha reporte web
 #meta+id,#date+notification,#code,#adm3+name,#adm2+name,#indicator+infected+type,#indicator+infected+age,#indicator+infected+sex,,#indicator+infected+status,#indicator+infected+origin,,#date+reported+death,#date+reported+notification,#date+reported+recovered,#date+reported
 1,2020-03-02T00:00:00.000,11001,Bogotá D.C.,Bogotá D.C.,Recuperado,19,F,Importado,Recuperado,Italia,2020-02-27T00:00:00.000,-   -,2020-03-06T00:00:00.000,2020-03-13T00:00:00.000,2020-03-06T00:00:00.000
 2,2020-03-06T00:00:00.000,76111,Guadalajara de Buga,Valle del Cauca,Recuperado,34,M,Importado,Recuperado,España,2020-03-04T00:00:00.000,-   -,2020-03-09T00:00:00.000,2020-03-19T00:00:00.000,2020-03-09T00:00:00.000
